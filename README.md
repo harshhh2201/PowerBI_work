@@ -55,7 +55,7 @@ It also lets them know the order status and delivery status, thus since by using
 - Step 4 : A bar chart was created displaying the Sum of total orders of the customers who referred to other customers.
 
   # Report Snapshot (Power BI DESKTOP)
-  Snap of report 2 :
+  Snap of report 2 : ![Screenshot (211)](https://github.com/harshhh2201/PowerBI_work/assets/157203848/e54fe637-8925-49db-954f-327736026c02)
 
  ## Report - 3 : Monthly trends and activities in different cities 
    step 1 to step 5 are same as above.
