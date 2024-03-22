@@ -45,7 +45,7 @@ It also lets them know the order status and delivery status, thus since by using
 - Step 13 : In the report view, alongside the headings of all reports i have created a back button to shuffle between different reports.
   
    # Report Snapshot (Power BI DESKTOP)
-   Snap of report 1 : ![Snap_1]()
+   Snap of report 1 : ![Screenshot (210)](https://github.com/harshhh2201/PowerBI_work/assets/157203848/13469299-ac89-44dc-a86b-082efcd0dd2b)
 
   ## Report - 2 : Happy customers and Order efficiency based on different channels
      step 1 to step 5 are same as above.
@@ -55,7 +55,7 @@ It also lets them know the order status and delivery status, thus since by using
 - Step 4 : A bar chart was created displaying the Sum of total orders of the customers who referred to other customers.
 
   # Report Snapshot (Power BI DESKTOP)
-  Snap of report 2 : ![Snap_1]()
+  Snap of report 2 :
 
  ## Report - 3 : Monthly trends and activities in different cities 
    step 1 to step 5 are same as above.
@@ -66,8 +66,7 @@ It also lets them know the order status and delivery status, thus since by using
 - Step 5 : A bar chart was created displaying the Count of the customers ID of different customers based on different Locations.
 
   # Report Snapshot (Power BI DESKTOP)
-  Snap of report 3 : ![Snap_1]()
-
+  Snap of report 3 :
 # Insights
 
 A Three page report was created on Power BI Desktop.
