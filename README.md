@@ -66,7 +66,7 @@ It also lets them know the order status and delivery status, thus since by using
 - Step 5 : A bar chart was created displaying the Count of the customers ID of different customers based on different Locations.
 
   # Report Snapshot (Power BI DESKTOP)
-  Snap of report 3 :
+  Snap of report 3 : ![Screenshot (212)](https://github.com/harshhh2201/PowerBI_work/assets/157203848/c88f16a6-565e-4e25-b02f-daff8b3499ec)
 # Insights
 
 A Three page report was created on Power BI Desktop.
